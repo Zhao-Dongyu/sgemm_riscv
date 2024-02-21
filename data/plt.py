@@ -24,6 +24,6 @@ plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.05), fancybox=True, shado
 
 plt.tight_layout()
 
-plt.show()
-
 plt.savefig('result.png', dpi=300)
+
+plt.show()
