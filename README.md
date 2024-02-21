@@ -1,14 +1,27 @@
+# sgemm_riscv
+![](https://img.shields.io/badge/Sgemm-RISC_V-8B0012)
+[![](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
+[![](https://img.shields.io/badge/version-1.0-green)](./LICENSE)
+
+---
+
 <img src=./pics/riscv.gif width=50% />
 
 [RISC-V](https://riscv.org/) is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration.
+
+---
 
 <img src=./pics/GEMM.png width=70% />
 
 [GEMM](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms#Level_3) General matrix multiply, one of the Basic Linear Algebra Subprograms.
 
+---
+
 <img src=./data/result.png width=70% />
 
 This project records the process of optimizing SGEMM (single-precision floating point General Matrix Multiplication) on the riscv platform.
+
+---
 
 To get started, please refer to Section [Usage](#usage)
 
