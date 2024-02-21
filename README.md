@@ -1,5 +1,4 @@
-#  SGEMM_RISCV
-<img src=./pics/riscv.gif width=70% />
+<img src=./pics/riscv.gif width=50% />
 
 [RISC-V](https://riscv.org/) is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration.
 
@@ -50,7 +49,7 @@ On the basis of the blislab project, [surez-ok](https://github.com/surez-ok/blis
 
 In the `prepare` folder, I compiled some tutorials and demos for hardware performance testing.
 
-`Step1` to `step9` are my experiments
+In the `sgemm` folder, `step0` to `step9` are my experiments.
 
 See [wiki](https://github.com/Zhao-Dongyu/sgemm_riscv/wiki) for more details.
 

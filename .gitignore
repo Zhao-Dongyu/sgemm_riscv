@@ -1,0 +1,5 @@
+*.o
+*.d
+*.x
+*.xlsx
+.DS_Store
