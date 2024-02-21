@@ -17,7 +17,7 @@
 
 ---
 
-<img src=./data/result.png width=70% />
+<img src=./data/result_all.png width=70% />
 
 This project records the process of optimizing SGEMM (single-precision floating point General Matrix Multiplication) on the riscv platform.
 
