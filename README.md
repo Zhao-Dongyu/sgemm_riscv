@@ -2,6 +2,10 @@
 ![](https://img.shields.io/badge/Sgemm-RISC_V-8B0012)
 [![](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 [![](https://img.shields.io/badge/version-1.0-green)](./LICENSE)
+[![](https://img.shields.io/github/issues/Zhao-Dongyu/sgemm_riscv.svg)](https://github.com/Zhao-Dongyu/sgemm_riscv/issues)
+
+[![](https://img.shields.io/github/forks/Zhao-Dongyu/sgemm_riscv.svg)](https://github.com/Zhao-Dongyu/sgemm_riscv/network) 
+[![](https://img.shields.io/github/stars/Zhao-Dongyu/sgemm_riscv.svg)](https://github.com/Zhao-Dongyu/sgemm_riscv/stargazers)
 
 ---
 
