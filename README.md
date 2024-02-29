@@ -6,6 +6,7 @@
 
 [![](https://img.shields.io/github/forks/Zhao-Dongyu/sgemm_riscv.svg)](https://github.com/Zhao-Dongyu/sgemm_riscv/network) 
 [![](https://img.shields.io/github/stars/Zhao-Dongyu/sgemm_riscv.svg)](https://github.com/Zhao-Dongyu/sgemm_riscv/stargazers)
+[![](https://img.shields.io/github/issues/Zhao-Dongyu/sgemm_riscv.svg)](https://github.com/Zhao-Dongyu/sgemm_riscv/issues)
 
 ---
 
